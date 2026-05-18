@@ -34,7 +34,4 @@ dependencyResolutionManagement {
 include("androidApp")
 include("core:data")
 include("core:ui")
-include(":compottie:compottie")
-include(":compottie:compottie-core")
-include(":compottie:compottie-lite")
 include(":composeApp")
